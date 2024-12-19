@@ -1,4 +1,4 @@
-# Area51
+
 package main
 
 import "fmt"
